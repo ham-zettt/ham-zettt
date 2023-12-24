@@ -2,7 +2,7 @@
 <h3 align="center">Orang biasa dari Pamekasan, 2004</h3>
 
 <p align="center">Mahasiswa S1 Teknik Informatika Universitas Trunojoyo Madura.<br>bingung mau nulis apa lagi, nanti dilanjutin</p>
-<p align="center" ><img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif"/></p>
+<p align="center" ><img src="https://strumace.com/cdn/shop/files/pixel-art-background-artworkcopia.webp?width=500" height="" width=""/></p>
 <h3 align="center">Languages:</h3>
 
 
